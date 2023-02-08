@@ -28,16 +28,19 @@ This project mainly focuses on Data Cleaning and Explorary Data Analysis on Netl
 - NR: Not rated.
 
 ## TV Show rating dictionary
-TV-MA: Mature Audience Only.
-TV-G: Suitable for general audience(All ages).
-TV-14: The shows may be unsuitable for children under 14.
-TV-PG: Parental guidance is recommended; these programs may be unsuitable for younger children.
-TV-Y7-FV: Directed to Older Children - Fantasy Violence.
-TV-Y7: Designed for children ages 7 and older.
-TV-Y: Appropriate for children of all ages.
+- TV-MA: Mature Audience Only.
+- TV-G: Suitable for general audience(All ages).
+- TV-14: The shows may be unsuitable for children under 14.
+- TV-PG: Parental guidance is recommended; these programs may be unsuitable for younger children.
+- TV-Y7-FV: Directed to Older Children - Fantasy Violence.
+- TV-Y7: Designed for children ages 7 and older.
+- TV-Y: Appropriate for children of all ages.
 
 
 ## Appendix
 
 Data source: https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv 
+
+Tableau: https://public.tableau.com/shared/3HHSFHQCS?:display_count=n&:origin=viz_share_link
+
 
