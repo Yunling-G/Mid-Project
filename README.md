@@ -1,7 +1,7 @@
 
 # Mid-Project：EDA on Netflix Movies and TV Shows
 
-This project mainly focuses on Data Cleaning and Explorary Data Analysis on Netlfix Movies and TV Shows. It aims to get insights, such as the most contributed country in Netflix, the most popular actors or directors,ect.
+This project mainly focuses on Data Cleaning and Explorary Data Analysis on Netlfix Movies and TV Shows dataset. It aims to get insights, such as the most contributed country in Netflix, the most popular genre of movies and tvshows and the main age group in Netflix,ect.
 
 
 ## Data Features
