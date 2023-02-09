@@ -41,6 +41,6 @@ This project mainly focuses on Data Cleaning and Explorary Data Analysis on Netl
 
 Data source: https://www.kaggle.com/datasets/shivamb/netflix-shows?select=netflix_titles.csv 
 
-Tableau: https://public.tableau.com/shared/3HHSFHQCS?:display_count=n&:origin=viz_share_link
+Tableau: https://public.tableau.com/shared/TZQ4XR2YJ?:display_count=n&:origin=viz_share_link
 
 
